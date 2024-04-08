@@ -1,0 +1,1 @@
+# NPK-Detection-and-Inventory-Management
